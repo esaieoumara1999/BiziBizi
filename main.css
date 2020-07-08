@@ -1,0 +1,21 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.local {
+    margin-top: 25px;
+}
+p{
+    margin-bottom: 30px;
+}
+.margin{
+    margin-top: 30px;
+}
+.s6{
+    margin-top: 15px;
+}
+.s6 a {
+    color: black;
+}
+.touch{
+    margin-left: 50px;
+}
